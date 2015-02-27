@@ -1,4 +1,3 @@
-var _ = require('lodash');
 /**
  * Parses an ET server status received from the server
  *
