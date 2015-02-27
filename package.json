@@ -1,0 +1,28 @@
+{
+  "name": "et-status-parser",
+  "version": "0.0.1",
+  "description": "An ET server status parser",
+  "main": "et-status-parser.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haapanen/et-status-parser"
+  },
+  "author": "Jussi Haapanen <haapanen.jussi@gmail.com> (http://etjump.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haapanen/et-status-parser/issues"
+  },
+  "homepage": "https://github.com/haapanen/et-status-parser",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "lodash": "^3.3.1"
+  }
+}
