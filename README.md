@@ -8,7 +8,7 @@ from the server response and a list of players on the server
 // server
 var etQuery = require('enemy-territory-query');
 
-var statusParser = require('./et-status-parser');
+var statusParser = require('et-status-parser');
 
 // Send a query to the server
 etQuery.getStatus({
